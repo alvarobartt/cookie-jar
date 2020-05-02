@@ -9,4 +9,9 @@
 This repository contains a curated collection of self made cookie recipes that you may find useful:
 
 - [restx-cookie](https://github.com/alvarobartt/restx-cookie) - :cookie: Flask Restx API as a Python package
-- [pypackage-cookie](https://github.com/alvarobartt/pypackage-cookie) - :cookie: Python package (including tests, docs, etc.)
+- [pypackage-cookie](https://github.com/alvarobartt/pypackage-cookie) - :cookie: Python Package
+- ... and much more to come!
+
+---
+
+<p align="center"><img src="https://i.ibb.co/zhFrbZm/made-with-love.png" width="550" hspace="50"/></p>
